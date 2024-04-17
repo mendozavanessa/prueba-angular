@@ -1,0 +1,9 @@
+h1{
+    font-family: 'Times New Roman', Times, serif;
+    color: rgb(210, 245, 255);
+}
+div {
+    max-width: 500px;
+    font-size: 32px;
+    margin: 0 auto;
+}
